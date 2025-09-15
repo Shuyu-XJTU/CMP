@@ -199,11 +199,11 @@ python3 run.py --task "cmp" --evaluate --dist "f4" --output_dir "output/cmp_eval
 If you use PAB or CMP in your research, please cite it by the following BibTeX entry:
 
 ```
-@article{yang2024beyond,
+@inproceedings{yang2025beyond,
   title={Beyond Walking: A Large-Scale Image-Text Benchmark for Text-based Person Anomaly Search},
   author={Yang, Shuyu and Wang, Yaxiong and Zhu, Li and Zheng, Zhedong},
-  journal={arXiv preprint arXiv:2411.17776},
-  year={2024}
+  booktitle={ICCV},
+  year={2025}
 }
 
 ```
