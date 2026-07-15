@@ -318,6 +318,14 @@ If you use PAB or CMP in your research, please cite it by the following BibTeX e
   </table>
 </div>
 
+
+## 📊 Leaderboard
+
+We maintain a leaderboard of Text-based Person Retrieval methods.
+
+👉 [View Leaderboard](leaderboard/README.md)
+
+
 ---
 
 <p align="center">
