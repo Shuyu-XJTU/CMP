@@ -240,7 +240,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Clothing Reconstruction from a Single Image<br>via a Causal Perspective · npj AI'26</sub>
         <br><br>
-        <a href="https://github.com/layumi/3D-Magic-Mirror">< img src="https://img.shields.io/github/stars/layumi/3D-Magic-Mirror.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/3D-Magic-Mirror"><img src="https://img.shields.io/github/stars/layumi/3D-Magic-Mirror.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/NVlabs/DG-Net">
@@ -249,7 +249,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Joint Generation + Re-ID Learning<br>CVPR'19 Oral · NVIDIA</sub>
         <br><br>
-        <a href="https://github.com/NVlabs/DG-Net">< img src="https://img.shields.io/github/stars/NVlabs/DG-Net.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/NVlabs/DG-Net"><img src="https://img.shields.io/github/stars/NVlabs/DG-Net.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/layumi/Person-reID_GAN">
