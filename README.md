@@ -223,7 +223,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
   <table>
     <tr>
       <td align="center" colspan="3">
-        <a href=" ">
+        <a href="https://github.com/layumi/Person_reID_baseline_pytorch">
           <h3>⛹️</h3>
           <b>Person re-ID Baseline (PyTorch)</b>
         </a >
@@ -258,7 +258,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>GAN-based Augmentation (LSRO)<br>ICCV'17</sub>
         <br><br>
-        <a href="https://github.com/layumi/Person-reID_GAN">< img src="https://img.shields.io/github/stars/layumi/Person-reID_GAN.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/Person-reID_GAN"><img src="https://img.shields.io/github/stars/layumi/Person-reID_GAN.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
     <tr>
@@ -269,7 +269,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Text-based Person Retrieval<br>Dual-Path Embedding</sub>
         <br><br>
-        <a href="https://github.com/layumi/Image-Text-Embedding">< img src="https://img.shields.io/github/stars/layumi/Image-Text-Embedding.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/Image-Text-Embedding"><img src="https://img.shields.io/github/stars/layumi/Image-Text-Embedding.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/Shuyu-XJTU/APTM">
@@ -278,7 +278,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Attribute Prompt Learning &amp; Text Matching<br>MALS Benchmark (1.5M pairs) · ACM MM'23</sub>
         <br><br>
-        <a href="https://github.com/Shuyu-XJTU/APTM">< img src="https://img.shields.io/github/stars/Shuyu-XJTU/APTM.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/Shuyu-XJTU/APTM"><img src="https://img.shields.io/github/stars/Shuyu-XJTU/APTM.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/Shuyu-XJTU/CMP">
@@ -287,7 +287,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Text-based Person <b>Anomaly</b> Search<br>PAB Benchmark (1M pairs) · ICCV'25 <b>Highlight</b></sub>
         <br><br>
-        <a href="https://github.com/Shuyu-XJTU/CMP">< img src="https://img.shields.io/github/stars/Shuyu-XJTU/CMP.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/Shuyu-XJTU/CMP"><img src="https://img.shields.io/github/stars/Shuyu-XJTU/CMP.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
     <tr>
@@ -298,7 +298,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Parameter-Efficient Re-ID<br>in the 3D Space (OG-Net)</sub>
         <br><br>
-        <a href="https://github.com/layumi/person-reid-3d">< img src="https://img.shields.io/github/stars/layumi/person-reid-3d.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/person-reid-3d"><img src="https://img.shields.io/github/stars/layumi/person-reid-3d.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/layumi/Pedestrian_Alignment">
@@ -307,7 +307,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Pedestrian Alignment Network (PAN)<br>for Robust Re-ID</sub>
         <br><br>
-        <a href="https://github.com/layumi/Pedestrian_Alignment">< img src="https://img.shields.io/github/stars/layumi/Pedestrian_Alignment.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/Pedestrian_Alignment"><img src="https://img.shields.io/github/stars/layumi/Pedestrian_Alignment.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
       <td align="center" width="33%">
         <a href="https://github.com/layumi/2016_person_re-ID">
@@ -316,7 +316,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>Verification + Identification<br>Baseline</sub>
         <br><br>
-        <a href="https://github.com/layumi/2016_person_re-ID">< img src="https://img.shields.io/github/stars/layumi/2016_person_re-ID.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/2016_person_re-ID"><img src="https://img.shields.io/github/stars/layumi/2016_person_re-ID.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
   </table>
