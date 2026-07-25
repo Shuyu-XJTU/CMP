@@ -229,7 +229,7 @@ We maintain a leaderboard of Text-Based Person Retrieval methods.
         </a >
         <br><sub>A <b>Tiny, Friendly & Strong</b> PyTorch Baseline for Person / Vehicle Re-ID<br>with Hands-on Tutorial · The Community Standard since 2017</sub>
         <br><br>
-        <a href="https://github.com/layumi/Person_reID_baseline_pytorch">< img src="https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?style=social&label=Star" alt="GitHub stars"></a >
+        <a href="https://github.com/layumi/Person_reID_baseline_pytorch"><img src="https://img.shields.io/github/stars/layumi/Person_reID_baseline_pytorch.svg?style=social&label=Star" alt="GitHub stars"></a >
       </td>
     </tr>
     <tr>
