@@ -208,7 +208,11 @@ If you use PAB or CMP in your research, please cite it by the following BibTeX e
 
 ```
 
+## 📊 Leaderboard
 
+We maintain a leaderboard of Text-Based Person Retrieval methods.
+
+👉 [View Leaderboard](leaderboard/README.md)
 
 
 ## 🔗 Related Projects
@@ -317,13 +321,6 @@ If you use PAB or CMP in your research, please cite it by the following BibTeX e
     </tr>
   </table>
 </div>
-
-
-## 📊 Leaderboard
-
-We maintain a leaderboard of Text-based Person Retrieval methods.
-
-👉 [View Leaderboard](leaderboard/README.md)
 
 
 ---
