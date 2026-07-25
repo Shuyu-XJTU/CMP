@@ -209,10 +209,11 @@ If you use PAB or CMP in your research, please cite it by the following BibTeX e
 ```
 
 ## 📊 Leaderboard
+We maintain the **PAB and UCC leaderboards for Text-Based Person Anomaly
+Search**, with separate tracks for zero-shot evaluation, 0.1M/1M PAB
+fine-tuning, test-time adaptation, and out-of-distribution evaluation.
 
-We maintain a leaderboard of Text-Based Person Retrieval methods.
-
-👉 [View Leaderboard](leaderboard/README.md)
+👉 **[View the PAB Leaderboard](leaderboard/README.md)** ·
 
 
 ## 🔗 Related Projects
